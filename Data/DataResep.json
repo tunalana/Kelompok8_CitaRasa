@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "title": "Nasi Goreng Spesial",
+    "category": "Makanan Berat",
+    "time": "30 menit",
+    "releaseDate": "2024-10-01",
+    "rating": 4.7,
+    "populer": 158,
+    "status": "Rekomendasi",
+    "chef": "Chef Andi",
+    "description": "Nasi goreng khas Indonesia dengan cita rasa gurih, dilengkapi dengan telur, ayam, dan sayuran segar.",
+    "ingredients": [
+      "2 piring nasi putih",
+      "2 siung bawang putih, cincang halus",
+      "1 butir telur",
+      "100g ayam, potong kecil",
+      "2 sdm kecap manis",
+      "1 sdm saus tiram",
+      "1 batang daun bawang, iris halus",
+      "Garam dan merica secukupnya",
+      "Minyak goreng"
+    ],
+    "steps": [
+      "Panaskan minyak di wajan, tumis bawang putih hingga harum.",
+      "Masukkan ayam, aduk hingga matang.",
+      "Geser ayam ke pinggir wajan, tuang telur, orak-arik hingga matang.",
+      "Masukkan nasi putih, aduk rata.",
+      "Tambahkan kecap manis, saus tiram, garam, dan merica.",
+      "Masukkan daun bawang, aduk sebentar dan sajikan hangat."
+    ],
+    "image": "nasigoreng.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Pancake Pisang",
+    "category": "Makanan Ringan",
+    "time": "20 menit",
+    "releaseDate": "2025-01-15",
+    "rating": 4.5,
+    "populer": 90,
+    "status": "Favorit",
+    "chef": "Chef Rina",
+    "description": "Pancake lembut dengan rasa pisang yang manis, cocok untuk sarapan atau cemilan sore.",
+    "ingredients": [
+      "2 buah pisang matang",
+      "2 butir telur",
+      "150 ml susu cair",
+      "150g tepung terigu",
+      "1 sdt baking powder",
+      "1 sdm gula pasir",
+      "Sejumput garam",
+      "Margarin untuk menggoreng"
+    ],
+    "steps": [
+      "Haluskan pisang dalam mangkuk besar.",
+      "Tambahkan telur, susu, dan aduk rata.",
+      "Campurkan tepung, baking powder, gula, dan garam ke adonan.",
+      "Aduk hingga menjadi adonan pancake yang halus.",
+      "Panaskan margarin di atas teflon, tuang adonan.",
+      "Masak dengan api kecil hingga kedua sisi matang dan kecokelatan."
+    ],
+    "image": "pancakepisang.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Salad Buah",
+    "category": "Salad",
+    "time": "10 menit",
+    "releaseDate": "2025-03-10",
+    "rating": 4.3,
+    "populer": 80,
+    "status": "Sehat",
+    "chef": "Chef Lala",
+    "description": "Kombinasi segar dari buah-buahan tropis dengan saus yogurt manis dan sedikit keju parut.",
+    "ingredients": [
+      "100g apel, potong dadu",
+      "100g melon, potong dadu",
+      "100g anggur",
+      "100g semangka",
+      "100ml yogurt plain",
+      "2 sdm susu kental manis",
+      "Keju parut secukupnya"
+    ],
+    "steps": [
+      "Campur semua buah dalam mangkuk besar.",
+      "Tambahkan yogurt dan susu kental manis, aduk rata.",
+      "Taburi keju parut di atasnya.",
+      "Simpan di kulkas sebelum disajikan agar lebih segar."
+    ],
+    "image": "saladbuah.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Mie Goreng Jawa",
+    "category": "Mie",
+    "time": "25 menit",
+    "releaseDate": "2025-04-12",
+    "rating": 4.6,
+    "populer": 120,
+    "status": "Tradisional",
+    "chef": "Chef Budi",
+    "description": "Mie goreng khas Jawa dengan rasa manis dan gurih, disajikan dengan telur dan sayuran.",
+    "ingredients": [
+      "200g mie telur, rebus dan tiriskan",
+      "2 siung bawang putih",
+      "3 siung bawang merah",
+      "1 butir telur",
+      "50g kol, iris halus",
+      "1 batang daun bawang",
+      "2 sdm kecap manis",
+      "1 sdm saus tiram",
+      "Garam dan merica secukupnya"
+    ],
+    "steps": [
+      "Tumis bawang putih dan bawang merah hingga harum.",
+      "Masukkan telur, orak-arik hingga matang.",
+      "Masukkan kol, aduk sebentar.",
+      "Tambahkan mie dan bumbu-bumbu, aduk rata.",
+      "Masukkan daun bawang, angkat dan sajikan hangat."
+    ],
+    "image": "miegorengjawa.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Tahu Crispy",
+    "category": "Camilan",
+    "time": "15 menit",
+    "releaseDate": "2025-05-01",
+    "rating": 4.4,
+    "populer": 100,
+    "status": "Cemilan Favorit",
+    "chef": "Chef Sinta",
+    "description": "Tahu goreng garing di luar dan lembut di dalam, cocok untuk camilan sore.",
+    "ingredients": [
+      "5 buah tahu putih, potong kotak kecil",
+      "3 sdm tepung terigu",
+      "2 sdm tepung maizena",
+      "1 sdt bawang putih bubuk",
+      "1/2 sdt kaldu bubuk",
+      "Air secukupnya",
+      "Minyak untuk menggoreng"
+    ],
+    "steps": [
+      "Campur tepung, bumbu, dan air hingga menjadi adonan kental.",
+      "Masukkan potongan tahu ke dalam adonan.",
+      "Goreng dalam minyak panas hingga kuning keemasan dan crispy.",
+      "Angkat dan tiriskan."
+    ],
+    "image": "tahucrispy.jpg"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Nasi Goreng Spesial",
+    "category": "Makanan Berat",
+    "durasiMasak": "30 menit",
+    "rating": 4.7,
+    "populer": 158,
+    "status": "Rekomendasi",
+    "imageName": "nasigoreng.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Pancake Pisang",
+    "category": "Makanan Ringan",
+    "durasiMasak": "20 menit",
+    "rating": 4.5,
+    "populer": 90,
+    "status": "Favorit",
+    "imageName": "pancakepisang.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Salad Buah",
+    "category": "Salad",
+    "durasiMasak": "10 menit",
+    "rating": 4.3,
+    "populer": 80,
+    "status": "Sehat",
+    "imageName": "saladbuah.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Mie Goreng Jawa",
+    "category": "Mie",
+    "durasiMasak": "25 menit",
+    "rating": 4.6,
+    "populer": 120,
+    "status": "Tradisional",
+    "imageName": "miegorengjawa.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Tahu Crispy",
+    "category": "Camilan",
+    "durasiMasak": "15 menit",
+    "rating": 4.4,
+    "populer": 100,
+    "status": "Cemilan Favorit",
+    "imageName": "tahucrispy.jpg"
+  }
+]
